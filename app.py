@@ -8,7 +8,7 @@ def hello():
 
 @app.route('/welcome')
 def welcome():
-    return "CI CD with GitHub Actions and AWS EC2"
+    return "CI CD with GitHub Actions and AWS EC2..."
 
 
 if __name__ == '__main__':
